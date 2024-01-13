@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.light {
+  background-color: transparent;
+  border-width: 0px;
+}
+.BgForHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #1e293b;
+  font-family: 'Roboto';
+  height: 15vh;
+}
+.HomeAndJobs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 110px;
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.webSite-Logo {
+  height: 23px;
+  margin-left: 33px;
+}
+.link {
+  text-decoration: none;
+}
+.HomeAndJobsStyle {
+  font-size: 18px;
+  list-style-type: none;
+  text-decoration: none;
+  color: #1e293b;
+  margin: 9px;
+  font-family: 'Roboto';
+}
+.liWebSiteLogo {
+  list-style-type: none;
+  text-decoration: none;
+}
+.HJ {
+  text-decoration: none;
+}
+.dark {
+  background-color: #333333;
+}
+.light {
+  background-color: #ffffff;
+}
+.light-text {
+  color: white;
+  font-family: 'Roboto';
+}
+.dark-text {
+  color: black;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark {
+  background-color: #000000;
+}
+.light {
+  background-color: #ffffff;
+}
